@@ -1,5 +1,10 @@
 # A2-Programacao-Concorrente
 
+## Integrantes
+- Eduardo Cornehl Wozniak
+- John Claude Cameron Chappell
+- Israel Nobre Ribeiro
+
 # Como testar
 
 Abra 3 terminais na raiz do projeto.
